@@ -13,7 +13,9 @@ My Role & Responsibilities
 * Contributed to Urdu localization to expand accessibility for regional users
 Technologies Used React Native, TypeScript, Redux Toolkit, REST APIs, Firebase Analytics, Microsoft Clarity, Biometric Authentication, Git
 Outcome Improved app responsiveness and reduced network overhead by around 25%, helping support thousands of user sessions efficiently.
-Live App: Playstore: https://play.google.com/store/search?q=metro+online&c=apps&hl=en Appstore: https://apps.apple.com/pk/app/metro-online/id1262899618
+Live App: Playstore: https://play.google.com/store/search?q=metro+online&c=apps&hl=en 
+Appstore: https://apps.apple.com/pk/app/metro-online/id1262899618
+
 2. MyDriverBook – ELD & HOS Compliance System (USA Trucking Industry)
 
 Project Description MyDriverBook is an ELD-based fleet compliance system designed for truck drivers in the United States. The application helps commercial drivers comply with FMCSA Hours of Service (HOS) regulations by automatically tracking driving activity, vehicle inspections, and driver logs through Electronic Logging Devices.
@@ -27,7 +29,9 @@ My Role & Responsibilities
 * Maintained and upgraded React Native dependencies for improved cross-platform stability
 Technologies Used React Native, TypeScript, ELD SDK Integration, GPS Tracking, Background Services, Zustand, Background Service, REST APIs, Git
 Outcome Enabled automated driver log recording and compliance reporting, reducing manual entry errors and helping fleets maintain regulatory compliance.
-Live App: Playstore: https://play.google.com/store/apps/details?id=app.mydriverbook.com Appstore: https://apps.apple.com/pk/app/metro-online/id1262899618
+Live App: Playstore: https://play.google.com/store/apps/details?id=app.mydriverbook.com 
+Appstore: https://apps.apple.com/pk/app/my-driver-book/id6670301563
+
 3. Taxi Driver Safety System (BLE Emergency Monitoring)
 
 Project Description A safety-focused mobile application designed for taxi drivers that uses BLE beacon devices and mobile sensors to trigger emergency alerts and provide real-time monitoring during dangerous situations.
